@@ -2693,7 +2693,7 @@ h6 {
   top: 0;
   left: 0;
   width: 100%;
-  background-color: var(--thm-black);
+  background-color: #FFDB7C;
   display: none;
   -webkit-transform: translateY(-110%);
   transform: translateY(-110%);
