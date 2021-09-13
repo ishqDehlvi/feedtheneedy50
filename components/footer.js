@@ -164,7 +164,7 @@ const Footer = () => {
           >
             <i className="far fa-angle-up"></i>
           </ScrollLink>
-          <p>© Copyright 2020 by Layerdrops.com</p>
+          <p>© Copyright 2020 by AFL STUDIOS</p>
           <div className="footer-social">
             <a href="#" aria-label="twitter">
               <i className="fab fa-twitter"></i>
