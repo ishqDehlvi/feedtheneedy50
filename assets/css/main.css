@@ -2980,7 +2980,7 @@ h6 {
 
 .mobile-nav__content {
   width: 300px;
-  background-color: var(--thm-black2);
+  background-color: #FFDB7C;
   z-index: 10;
   position: relative;
   height: 100%;
