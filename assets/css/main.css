@@ -2463,7 +2463,7 @@ h6 {
   content: "";
   position: absolute;
   width: 100000px;
-  background-color: #fff;
+  background-color: #FCCE04;
   border-bottom-right-radius: 10px;
   top: 0;
   right: 0;
@@ -2682,7 +2682,7 @@ h6 {
 }
 
 .main-menu {
-  background-color: var(--thm-black);
+  background-color: #FFDB7C;
   padding-left: 50px;
   padding-right: 50px;
 }
