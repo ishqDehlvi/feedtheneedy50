@@ -8,7 +8,7 @@ import Footer from "../components/footer";
 
 const Gallery = () => {
   return (
-    <Layout pageTitle="Gallery Page || Azino || Charity React Next Template">
+    <Layout pageTitle="Gallery Page || Humanity || Feedtheneed50">
       <HeaderOne />
       <StickyHeader />
       <PageHeader title="Gallery Page" crumbTitle="Gallery" />

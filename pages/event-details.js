@@ -10,7 +10,7 @@ import detailsImage from "../assets/images/events/event-details-1-1.jpg";
 
 const EventDetails = () => {
   return (
-    <Layout pageTitle="Event Details Page || Azino || Charity React Next Template">
+    <Layout pageTitle="Event Details Page || Humanity || Feedtheneed50">
       <HeaderOne />
       <StickyHeader />
       <PageHeader title="Event Details" crumbTitle="Event Details" />

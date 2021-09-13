@@ -8,7 +8,7 @@ import Footer from "../components/footer";
 
 const Causes = () => {
   return (
-    <Layout pageTitle="Causes Page || Azino || Charity React Next Template">
+    <Layout pageTitle="Causes Page || Humanity || Feedtheneed50">
       <HeaderOne />
       <StickyHeader />
       <PageHeader title="Causes Page" crumbTitle="Causes" />

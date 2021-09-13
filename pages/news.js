@@ -8,7 +8,7 @@ import Footer from "../components/footer";
 
 const News = () => {
   return (
-    <Layout pageTitle="News Page || Azino || Charity React Next Template">
+    <Layout pageTitle="News Page || Humanity || Feedtheneed50">
       <HeaderOne />
       <StickyHeader />
       <PageHeader title="News Page" crumbTitle="News" />

@@ -20,7 +20,7 @@ import Footer from "../components/footer";
 
 const HomeTwo = () => {
   return (
-    <Layout pageTitle="Home Two || Azino || Charity React Next Template">
+    <Layout pageTitle="Home Two || Humanity || Feedtheneed50">
       <HeaderTwo />
       <StickyHeader extraClassName="stricky-header-two" />
       <MainSliderTwo />

@@ -10,7 +10,7 @@ import Footer from "../components/footer";
 
 const Contact = () => {
   return (
-    <Layout pageTitle="Contact Page || Azino || Charity React Next Template">
+    <Layout pageTitle="Contact Page || Humanity || Feedtheneed50">
       <HeaderOne />
       <StickyHeader />
       <PageHeader title="Contact Page" crumbTitle="Contact Us" />

@@ -21,7 +21,7 @@ import Footer from "../components/footer";
 
 const HomeOne = () => {
   return (
-    <Layout pageTitle="Home One || Azino || Charity React Next Template">
+    <Layout pageTitle="Home One || Humanity || Feedtheneed50">
       <HeaderOne />
       <StickyHeader />
       <MainSlider />

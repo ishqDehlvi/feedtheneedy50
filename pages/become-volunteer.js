@@ -9,7 +9,7 @@ import Footer from "../components/footer";
 
 const BecomeVolunteer = () => {
   return (
-    <Layout pageTitle="Become a Volunteer || Azino || Charity React Next Template">
+    <Layout pageTitle="Become a Volunteer || Humanity || Feedtheneed50">
       <HeaderOne />
       <StickyHeader />
       <PageHeader title="Become a Volunteer" crumbTitle="Become Volunteer" />
