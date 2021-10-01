@@ -8,10 +8,10 @@ import Footer from "../components/footer";
 
 const Causes = () => {
   return (
-    <Layout pageTitle="Causes Page || Humanity || Feedtheneed50">
+    <Layout pageTitle="Causes Page || Humanity || Feedtheneedy50">
       <HeaderOne />
       <StickyHeader />
-      <PageHeader title="Causes Page" crumbTitle="Causes" />
+      <PageHeader title="Causes Page  " crumbTitle="Causes" />
       <CausesPage />
       <Footer />
     </Layout>
